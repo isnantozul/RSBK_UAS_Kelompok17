@@ -7,3 +7,5 @@ Anggota Kelompok 8 :
 
 # Screenshot
 
+![Gambar1](https://github.com/isnantozul/RSBK_UAS_Kelompok17/blob/master/SS/SS1.jpg)
+![Gambar2](https://github.com/isnantozul/RSBK_UAS_Kelompok17/blob/master/SS/SS2.jpg)
